@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "ultimatepokemon.json"
+  ],
+  "homeserver_url": "https://matrix.canine.dance"
+}
